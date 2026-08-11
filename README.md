@@ -14,3 +14,5 @@ A Power BI dashboard tracking global sales trends, product categories, and regio
 ## Tools Used
 * **BI Tool:** Microsoft Power BI Desktop
 * **Data Visualizations:** Dual-axis Area/Line Chart, Map, Matrix Table, Slicer controls
+
+![Executive Summary Sales Report Dashboard](Screenshot%202026-08-11%20095228.png)
